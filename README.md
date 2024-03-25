@@ -12,6 +12,10 @@ Welcome to Baked With Love: a baking blog full of delicious, simple and pretty c
 3. Users interested in baking gluten-free cakes and cupcakes.
 4. Users looking for fun, kid-friendly recipes.
 
+### Aims of Site:
+1. Connect with like-minded individuals who share a love for baking. My site has a comments section underneath each recipe where fellow bakers and exchange tips, ideas and suggest changes to the recipes.
+
+
 
 
 ### Logo
@@ -42,10 +46,9 @@ Newsletter Page Responsive Design
 
 <img src="/assets/screeenshots/newsletterresponsive.jpg">
 
+The wireframes that I created were very simplified models of the site layout. I did end up sticking to them as I felt like everything was spread out nicely. 
 
-The wireframes that I have created were very simplified models of the site layout. I did end up sticking to them as I felt like everything was spread out nicely. 
-
-The footer section includes links to the relevant social media sites for Baked With Love. The links will open to a new tab to allow easy navigation for the user. In the footer there is also a link to the privacy policy since the site does collect personal information when users sign up to the newsletter or fill in the contact form.
+The footer section includes links to the relevant social media sites for Baked With Love. The links will open to a new tab to allow easy navigation for the user. In the footer, there is also a link to the privacy policy since the site does collect personal information when users sign up for the newsletter or fill in the contact form.
 <img src="/assets/screeenshots/footerscreenshot.png">
 
 ### Colour Scheme
@@ -54,7 +57,7 @@ The 4 main colours that I used on all the pages were light pink, dark pink, ging
 
 
 ## Future-Enhancements
-1. Once I have more recipes, I would add a search bar next to my navigation bar. This would make it quicker for users to find a recipe that they interested in. If they type in a keyword like 'chocolate' all the chocolate cake recipes will appear.
+1. Once I have more recipes, I will add a search bar next to my navigation bar. This would make it quicker for users to find a recipe that they are interested in. If they type in a keyword like 'chocolate' all the chocolate cake recipes will appear.
 2. Add a PrintFriendly button to all the recipes so that users are able to print recipes without all the images and comments. 
 3. Optimize images for better site performance.
 4. I would like to add a 'rate this recipe' button at the top of each recipe page. This will allow users to rate each recipe out of five stars.
@@ -68,18 +71,18 @@ When I tested the html code for all of my pages I got the messages above. I lear
 <img src="/assets/screeenshots/cssnoerrors.png">
 
 <img src="/assets/screeenshots/Screenshot 2024-03-25 095300.png">
-The most disappointing part of this project for me was seeing the page performance score. Although I did compress the photos, I still only ended up scoring 64 for performance. 
+The most disappointing part of this project for me was seeing the page performance score. Although I did compress the photos, I still only ended up scoring 64 for performance. I did take the photos with a professional camera, so the image sizes were very large to start with.
 
 ### Further Testing
 The Website was tested on Google Chrome, Internet Explorer and Microsoft Edge.
-The website was viewed on a variety of devices such as Desktop, Laptop and android phones.
-I also presented my website to classmates twice and recieved verbal feedback from them.
+The website was viewed on a variety of devices such as Desktop, Laptop and Android phones.
+I also presented my website to classmates twice and received verbal feedback from them.
 
 ## Honourable mentions
 Thank you to Komal Karir, my course tutor, who was always on hand whenever I had a question.
 
 ## General Reference
-I relied upon W3schools and Youtube for general "how to's" throughout the project alongside course material from Code Institute.
+I relied upon W3schools and YouTube for general "how to's" throughout the project alongside course material from Code Institute.
 
 
 
