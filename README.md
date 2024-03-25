@@ -22,28 +22,24 @@ I used BeFunky.com to make my logo. Since, this is a recipe site and I do bake g
 I used BeFunky to create a visual representation of the Baked With Love site - below are the initial idea designs:
 
 Index Page Responsive Design
-Laptop Screen
-<img src="/assets/screeenshots/index page layout.jpg">
-Phone Screen
-<img src="/assets/screeenshots/indexphonepagelayout.jpg">
+
+<img src="/assets/screeenshots/indexresponsive.jpg">
+
 
 Recipes Page Responsive Design
-Laptop Screen 
-<img src="/assets/screeenshots/recipes page layout.jpg">
-Phone Screen
-<img src="/assets/screeenshots/recipesphonepagelayout.jpg">
+
+<img src="/assets/screeenshots/recipesresponsive.jpg">
+
 
 About Page Responsive Design
-Laptop Screen
-<img src="/assets/screeenshots/about me page layout.jpg">
-Phone Screen
-<img src="/assets/screeenshots/aboutphonepagelayout.jpg">
+
+<img src="/assets/screeenshots/aboutmeresponsive.jpg">
+
 
 Newsletter Page Responsive Design
-Laptop Screen
-<img src="/assets/screeenshots/newsletter page layout.jpg">
-Phone Screen
-<img src="/assets/screeenshots/newsletterphonepagelayout.jpg">
+
+<img src="/assets/screeenshots/newsletterresponsive.jpg">
+
 
 The wireframes that I have created were very simplified models of the site. I ended up adding a little gingerbread picture, a copyright privacy policy to the footer as it did look very empty.
 <img src="/assets/screeenshots/footerscreenshot.png">
