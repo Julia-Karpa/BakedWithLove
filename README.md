@@ -12,8 +12,10 @@ Welcome to Baked With Love: a baking blog full of delicious, simple and pretty c
 3. Users interested in baking gluten-free cakes and cupcakes.
 4. Users looking for fun, kid-friendly recipes.
 
+
+
 ### Logo
-I used BeFunky.com to make my logo. Since, this is a recipe site and I do bake gingerbread biscuits, I though that a gingerbreadman was the perfect logo.
+I used BeFunky.com to make my logo. Since, this is a recipe site and I do bake gingerbread biscuits, I though that a gingerbreadman was the perfect logo. When you click on the logo, you return to the homepage.
 
 <img src="/assets/screeenshots/makinglogo.png">
 
@@ -41,15 +43,19 @@ Newsletter Page Responsive Design
 <img src="/assets/screeenshots/newsletterresponsive.jpg">
 
 
-The wireframes that I have created were very simplified models of the site. I ended up adding a little gingerbread picture, a copyright privacy policy to the footer as it did look very empty.
+The wireframes that I have created were very simplified models of the site layout. I did end up sticking to them as I felt like everything was spread out nicely. 
+
+The footer section includes links to the relevant social media sites for Baked With Love. The links will open to a new tab to allow easy navigation for the user. In the footer there is also a link to the privacy policy since the site does collect personal information when users sign up to the newsletter or fill in the contact form.
 <img src="/assets/screeenshots/footerscreenshot.png">
 
 ### Colour Scheme
 The 4 main colours that I used on all the pages were light pink, dark pink, gingerbread brown and white. I wanted 2 light colours and 2 darker colours to create contrast.
 
+
+
 ## Future-Enhancements
 1. Once I have more recipes, I would add a search bar next to my navigation bar. This would make it quicker for users to find a recipe that they interested in. If they type in a keyword like 'chocolate' all the chocolate cake recipes will appear.
-2. Add a PrintFriendly button to all the recipes so that users are able to pint recipes without all the images and comments.
+2. Add a PrintFriendly button to all the recipes so that users are able to print recipes without all the images and comments. 
 3. Optimize images for better site performance.
 4. I would like to add a 'rate this recipe' button at the top of each recipe page. This will allow users to rate each recipe out of five stars.
 
@@ -58,12 +64,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 <img src="/assets/screeenshots/indexerrors.png">
 <img src="/assets/screeenshots/abouterrors.png">
-<img src="/assets/screeenshots/contacterrors.png">
-<img src="/assets/screeenshots/recipeserrors.png">
-<img src="/assets/screeenshots/newslettererrors.png">
+When I tested the html code for all of my pages I got the messages above. I learned that using an <a> tag to create a button that acts like a link is not semantically correct. I also used the h1 heading more than once on some pages as I wanted the font to be as large as possible. On the other hand, the CSS code was fine.
 <img src="/assets/screeenshots/cssnoerrors.png">
 
 <img src="/assets/screeenshots/Screenshot 2024-03-25 095300.png">
+The most disappointing part of this project for me was seeing the page performance score. Although I did compress the photos, I still only ended up scoring 64 for performance. 
+
+### Further Testing
+The Website was tested on Google Chrome, Internet Explorer and Microsoft Edge.
+The website was viewed on a variety of devices such as Desktop, Laptop and android phones.
+I also presented my website to classmates twice and recieved verbal feedback from them.
 
 ## Honourable mentions
 Thank you to Komal Karir, my course tutor, who was always on hand whenever I had a question.
